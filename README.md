@@ -1,7 +1,7 @@
 # Hemanth S V
 
 <p align="center">
-  <pre>
+   <pre>
 ██╗  ██╗███████╗███╗   ███╗ █████╗ ███╗   ██╗████████╗██╗  ██╗
 ██║  ██║██╔════╝████╗ ████║██╔══██╗████╗  ██║╚══██╔══╝██║  ██║
 ███████║█████╗  ██╔████╔██║███████║██║╚██╗██║   ██║   ███████║
@@ -24,11 +24,17 @@ cloud-native applications and distributed architectures.
 
 ## About Me
 
-I am a software engineering student focused on backend engineering, cloud computing, and distributed systems.
+<p align="center">
+  I am a software engineering student focused on backend engineering, cloud computing, and distributed systems.
+</p>
 
-I enjoy building systems that are reliable, scalable, and production-ready — from APIs and microservices to cloud-native infrastructure and automation workflows.
+<p align="center">
+  I enjoy building systems that are reliable, scalable, and production-ready — from APIs and microservices to cloud-native infrastructure and automation workflows.
+</p>
 
-My interests include backend architecture, system design, DevOps, and the engineering trade-offs behind resilient software.
+<p align="center">
+  My interests include backend architecture, system design, DevOps, and the engineering trade-offs behind resilient software.
+</p>
 
 ## Technical Stack
 
@@ -62,17 +68,31 @@ My interests include backend architecture, system design, DevOps, and the engine
   <img src="https://skillicons.dev/icons?i=kafka" />
 </p>
 
-- Message queues
-- Microservices
-- System design
+<p align="center">
+  Message queues • Microservices • System design
+</p>
 
 ## Engineering Philosophy
 
-- Design for scalability without overcomplicating the system
-- Understand trade-offs before choosing an architecture
-- Build reliable backend services that can handle production workloads
-- Write clean, maintainable, and testable code
-- Prefer strong fundamentals over unnecessary complexity
+<p align="center">
+  Design for scalability without overcomplicating the system
+</p>
+
+<p align="center">
+  Understand trade-offs before choosing an architecture
+</p>
+
+<p align="center">
+  Build reliable backend services that can handle production workloads
+</p>
+
+<p align="center">
+  Write clean, maintainable, and testable code
+</p>
+
+<p align="center">
+  Prefer strong fundamentals over unnecessary complexity
+</p>
 
 ## Featured Projects
 
@@ -113,6 +133,9 @@ An event-driven distributed system for asynchronous service communication.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HEMANTHSV31&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HEMANTHSV31&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
@@ -122,18 +145,27 @@ An event-driven distributed system for asynchronous service communication.
 
 ## Current Learning
 
-- Distributed Systems
-- Cloud Architecture
-- Kubernetes
-- Advanced Backend Engineering
-- System Design
+<p align="center">
+  Distributed Systems • Cloud Architecture • Kubernetes • Advanced Backend Engineering • System Design
+</p>
 
 ## Connect
 
-- LinkedIn: https://www.linkedin.com/in/hemanth-s-v-2610b0329/
-- Portfolio: add your portfolio link
-- Email: add your email address
-- GitHub: https://github.com/HEMANTHSV31
+<p align="center">
+  LinkedIn: https://www.linkedin.com/in/hemanth-s-v-2610b0329/
+</p>
+
+<p align="center">
+  Portfolio: add your portfolio link
+</p>
+
+<p align="center">
+  Email: add your email address
+</p>
+
+<p align="center">
+  GitHub: https://github.com/HEMANTHSV31
+</p>
 
 ---
 
